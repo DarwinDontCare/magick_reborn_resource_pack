@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "magick_reborn:item/summoned_hoe"
+    }
+}

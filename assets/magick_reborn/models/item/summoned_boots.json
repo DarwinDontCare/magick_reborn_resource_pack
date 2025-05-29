@@ -1,0 +1,6 @@
+{
+    "parent": "item/netherite_boots",
+    "textures": {
+        "layer0": "magick_reborn:item/summoned_boots"
+    }
+}

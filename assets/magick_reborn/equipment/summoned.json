@@ -1,0 +1,14 @@
+{
+    "layers": {
+      "humanoid": [
+        {
+          "texture": "magick_reborn:summoned"
+        }
+      ],
+      "humanoid_leggings": [
+        {
+          "texture": "magick_reborn:summoned"
+        }
+      ]
+    }
+  }

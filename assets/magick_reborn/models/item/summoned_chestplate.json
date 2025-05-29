@@ -1,0 +1,6 @@
+{
+    "parent": "item/netherite_chestplate",
+    "textures": {
+        "layer0": "magick_reborn:item/summoned_chestplate"
+    }
+}

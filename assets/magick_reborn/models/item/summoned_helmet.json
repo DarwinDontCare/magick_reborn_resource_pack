@@ -1,0 +1,6 @@
+{
+    "parent": "item/netherite_helmet",
+    "textures": {
+        "layer0": "magick_reborn:item/summoned_helmet"
+    }
+}

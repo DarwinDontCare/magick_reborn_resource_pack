@@ -1,0 +1,7 @@
+{
+    "model": {
+      "type": "minecraft:model",
+      "model": "magick_reborn:item/summoned_pickaxe"
+    },
+    "hand_animation_on_swap": true
+  }
