@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow",
+    "textures": {
+      "layer0": "magick_reborn:item/summon_bow_pulling_0"
+    }
+  }
