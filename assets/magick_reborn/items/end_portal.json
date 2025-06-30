@@ -1,0 +1,7 @@
+{
+    "model": {
+      "type": "model",
+      "model": "magick_reborn:item/end_portal"
+    },
+    "hand_animation_on_swap": true
+}
