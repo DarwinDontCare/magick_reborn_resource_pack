@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "magick_reborn:item/alteration_magick_circle"
+        "layer0": "magick_reborn:item/alteration_magick_circle_e"
     }
 }
